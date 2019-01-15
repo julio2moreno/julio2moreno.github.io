@@ -1,11 +1,11 @@
 ---
 layout: page
-title: desarrollo
-permalink: /desarrollo/
+title: Operaciones
+permalink: /Operaciones/
 ---
 
  <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.Desarrollo %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
