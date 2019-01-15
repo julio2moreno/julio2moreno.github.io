@@ -5,7 +5,7 @@ permalink: /desarrollo/
 ---
 
  <ul class="post-list">
-    {% for post in site.Desarrollo %}
+    {% for post in site.Desarrollo.md %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
