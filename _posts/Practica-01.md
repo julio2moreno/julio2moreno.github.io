@@ -1,3 +1,8 @@
+---
+layout: page
+title: Practica1
+permalink: /Practica1/
+---
 # Practica-01-LAMP_STACK
 ###### Vamos a instalar la pila LAMP en la maquina virtual Ubuntuserver 18.04
 ## 1. Instalacion de PhpMyAdmin.
