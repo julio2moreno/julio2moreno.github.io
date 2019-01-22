@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: IAW blog
+title: Guia de Prácticas
 email: july9castillo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Blog parsa practicas de IAW
+ IMPLANTACION DE APLICACIONES WEB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: julio2moreno
